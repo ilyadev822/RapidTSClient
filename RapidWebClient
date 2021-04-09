@@ -1,3 +1,4 @@
+#Type script
 class RapidClient {
     private method: string;
     get Method() {
