@@ -1,7 +1,7 @@
 # RapidTSClient
-rapid web api client - using axios
-testing:
-//HTML
+#rapid web api client - using axios
+
+#HTML
 <!DOCTYPE html>
 <html>
 <head>
@@ -67,7 +67,7 @@ testing:
 </html>
 
 
-//Functions
+#Functions
 function GetAudio() {
     let videoId: string = (<HTMLInputElement>document.getElementById('videoId')).value;
     let method = 'GET';
